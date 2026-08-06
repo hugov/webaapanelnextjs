@@ -46,7 +46,7 @@ export default function Home() {
   return (
     <main className={styles.wrapper}>
       <div className={styles.rectangle}>
-        <div className={styles.version}>1.0.0</div>
+        <div className={styles.version}>1.0.5</div>
       </div>
     </main>
   );
